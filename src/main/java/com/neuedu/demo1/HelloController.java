@@ -11,6 +11,7 @@ public class HelloController {
                 int i = 0 ;
         int k = 0 ;
         int b = 0 ;
+        System.out.println("hello world");
         return "{\"content\":\"hello Spring Boot!!\"}";
     }
 
