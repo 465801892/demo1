@@ -10,8 +10,6 @@ public class HelloController {
     public String hello(){
                 int i = 0 ;
         int k = 0 ;
-        int b = 0 ;
-        int c = 0 ;
         return "{\"content\":\"hello Spring Boot!!\"}";
     }
 
